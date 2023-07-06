@@ -56,12 +56,10 @@ The three models trained on the dataset:
 2. Support Vector Machine (SVM)
 3. Logistic Regression
 
-We deployed accuracy, precision, recall, F1 score, and AUC-ROC score to assess model performance. 
 
-Here are the results:
 
 ```bash
                  Model  Accuracy  Precision    Recall  F1 Score  AUC-ROC Score
-0        Random Forest  0.807143   0.720000  0.473684  0.571429       0.702528
-1                  SVM  0.864286   0.952381  0.526316  0.677966       0.758256
-2  Logistic Regression  0.850000   0.814815  0.578947  0.676923       0.764964
+       Random Forest  0.807143   0.720000  0.473684  0.571429       0.702528
+                  SVM  0.864286   0.952381  0.526316  0.677966       0.758256
+  Logistic Regression  0.850000   0.814815  0.578947  0.676923       0.764964
