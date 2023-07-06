@@ -59,7 +59,7 @@ The three models trained on the dataset:
 
 
 ```bash
-                 Model  Accuracy  Precision    Recall  F1 Score  AUC-ROC Score
-       Random Forest  0.807143   0.720000  0.473684  0.571429       0.702528
+              Model    Accuracy  Precision  Recall    F1 Score    AUC-ROC Score
+        Random Forest  0.807143   0.720000  0.473684  0.571429       0.702528
                   SVM  0.864286   0.952381  0.526316  0.677966       0.758256
   Logistic Regression  0.850000   0.814815  0.578947  0.676923       0.764964
